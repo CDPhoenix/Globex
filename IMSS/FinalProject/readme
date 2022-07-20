@@ -1,1 +1,9 @@
+1. Install relevant package follow requirement.txt
 
+2. Put all python file in one same folder
+
+3. Open the main.py and run the file
+
+4. Four plots will be generated, the 1st is path of moving, the 2nd is path of lifting, the 3rd is loss of moving, the 4th is loss of lifiting
+
+5. The parameters of environment and training are not the most optimal
